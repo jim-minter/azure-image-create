@@ -1,0 +1,4 @@
+package: github.com/jim-minter/azure-image-create
+import:
+- package: github.com/Azure/azure-sdk-for-go
+- package: github.com/spf13/pflag
